@@ -2,8 +2,8 @@
 $(".about__slider").slick({
     infinite: false,
     fade: true,
-    prevArrow: '<img class="slider__arrows slider__arrows-left" src="images/prev-arrow.png" alt="arrows-left">',
-    nextArrow: '<img class="slider__arrows slider__arrows-right" src="images/next-arrow.png" alt="arrows-right">'
+    prevArrow: '<img class="slider__arrows slider__arrows-left" src="images/prev-arrow.webp" alt="arrows-left">',
+    nextArrow: '<img class="slider__arrows slider__arrows-right" src="images/next-arrow.webp" alt="arrows-right">'
 });
 
 //burger

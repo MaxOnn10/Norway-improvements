@@ -741,7 +741,7 @@ h6 {
 }
 
 .bg-main {
-  background-image: url("../images/bg-main.jpg");
+  background-image: url("../images/bg-main.webp");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -907,7 +907,7 @@ h6 {
   padding-top: 285px;
   padding-bottom: 50px;
   color: #fff;
-  background: url(../images/header-bg.png);
+  background: url(../images/header-bg.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -960,7 +960,7 @@ h6 {
 .top__btn::before {
   content: "";
   position: absolute;
-  background-image: url("../images/btn-border.png");
+  background-image: url("../images/btn-border.webp");
   left: 4px;
   top: 15px;
   width: 220px;
@@ -1266,7 +1266,7 @@ h6 {
 .team__btn::before {
   content: "";
   position: absolute;
-  background-image: url("../images/btn-border.png");
+  background-image: url("../images/btn-border.webp");
   left: 12px;
   top: 18px;
   width: 220px;
