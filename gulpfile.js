@@ -53,7 +53,7 @@ gulp.task("js", function () {
         "node_modules/slick-carousel/slick/slick.js",
         "node_modules/simplebar/dist/simplebar.js"
     ])
-        .pipe(concat("libs.min.js"))
+        // .pipe(concat("libs.min.js"))
         .pipe(uglify())
         .pipe(gulp.dest("app/js"))
         .pipe(browserSync.reload({ stream: true }))
